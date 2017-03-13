@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133900445029",
+    "firebase_url": "https://arcon-78900994.firebaseio.com",
+    "project_id": "arcon-78900994",
+    "storage_bucket": "arcon-78900994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133900445029:android:3f1fac16abbc8763",
+        "android_client_info": {
+          "package_name": "com.denip.arcon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133900445029-qn5lic68gqaeee6a7jpcb8vmt2879cm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWnv5pFF0RL7DgX9vUT4nPEgfg-pBbjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
